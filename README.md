@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje trabalho com front-end 
-- 🌱 Estudando JavaScript
+- 🌱 Estudando React JS e React native
 - 📫 Contate-me por e-mail: paullo_jf@hotmail.com
 
 <div>
