@@ -6,9 +6,9 @@
 - 📫 Contate-me por e-mail: paullo_jf@hotmail.com
 
 <div>
-  <a href="https://github.com/Bombeta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bombeta&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bombeta&layout=compact&langs_count=16&theme=synthwave"/>
+  <a href="https://github.com/PauloEstevaoTI">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloEstevaoTI&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloEstevaoTIa&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
   
   <div style="display: inline_block"><br>
