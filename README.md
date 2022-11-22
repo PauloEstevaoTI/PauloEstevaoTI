@@ -31,5 +31,5 @@
  
 </div
   
-![Snake animation](https://github.com/PauloEstevaoTI/Bombeta/blob/output/github-contribution-grid-snake.svg)
+
 
