@@ -8,7 +8,7 @@
 <div>
   <a href="https://github.com/PauloEstevaoTI">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloEstevaoTI&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloEstevaoTIa&layout=compact&langs_count=16&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloEstevaoTI&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
   
   <div style="display: inline_block"><br>
