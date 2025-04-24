@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho com front-end 
 - 🌱 Estudando React JS, React native e Node JS
-- 📫 Contate-me por e-mail: paullo_jf@hotmail.com
+- 📫 Contate-me por e-mail: pauloestevaoteodoro@gmail.com
 
 <div>
   <a href="https://github.com/PauloEstevaoTI">
